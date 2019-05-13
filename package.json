@@ -1,0 +1,32 @@
+{
+  "name": "fundamentals-of-software-engineering",
+  "version": "1.0.0",
+  "description": "carpooly",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "express-session": "^1.15.6",
+    "md5": "^2.2.1",
+    "mysql": "^2.16.0",
+    "nodemailer": "^6.1.1",
+    "react": "^16.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamin-weinberg/Fundamentals-of-Software-Engineering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjamin-weinberg/Fundamentals-of-Software-Engineering/issues"
+  },
+  "homepage": "https://github.com/benjamin-weinberg/Fundamentals-of-Software-Engineering#readme"
+}
